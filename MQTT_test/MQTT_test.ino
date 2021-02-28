@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <String.h>
 
-const char* ssid = "FRITZ!Box 7530 FP";
-const char* password = "@#casa_padova2020";
+const char* ssid = "...";
+const char* password = "...";
 const char* id = "test_light";
 const char* topic = "esp8266/led";
 const char* state_topic = "esp8266/led/state";
